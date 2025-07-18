@@ -1,6 +1,6 @@
 # Smart Assignment System v1.0 — Go-Live Battle Plan
 
-This guide walks you through safely implementing the Smart Assignment System in ServiceNow. **Never deploy directly to production.**
+This guide walks you through safely implementing the Smart Assignment System in ServiceNow to stage and test. **Never deploy directly to production.**
 
 ---
 
